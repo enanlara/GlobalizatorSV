@@ -13,7 +13,7 @@ using System.Web.UI.WebControls;
 public partial class _GlobalizeCode : System.Web.UI.Page
 {
     public const string Culture = "pt-BR";
-    public const string Path = "C:\\YoursoftBase2020\\SuasVendas\\SuasVendasApp\\Web";
+    public const string Path = "C:\\";
 
     protected void Page_Load(object sender, EventArgs e)
     {
